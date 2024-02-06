@@ -2,7 +2,7 @@ import React from 'react'
 import { GiAchievement } from "react-icons/gi";
 import { BsFillPeopleFill } from "react-icons/bs";
 import { FaChessKing } from "react-icons/fa6";
-import profile from '../media/photo.jpg';
+import profile from '../media/newwwp.jpg';
 export const About = () => {
   return (
     <div id="About" className='w-full h-[650px]'>
